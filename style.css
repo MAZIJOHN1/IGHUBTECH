@@ -117,7 +117,11 @@ nav img{
     margin-bottom: 50px;
     background-color: rgb(116, 58, 77);
 }
-
+@media (max-width: 900px){
+    .prod{
+        diaplay:lock;
+        text-align-center;
+    }
 .contact ul{
  margin: 20px;   
  height: 50x;
