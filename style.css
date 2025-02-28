@@ -68,7 +68,11 @@ nav img{
     flex-wrap: wrap;
     margin-bottom: 50px;
 }
-
+@media (max-width: 900px){
+    .serve{
+        display: block;
+        text-align: center;
+    }
 .items {
     padding: 20px;
 }
